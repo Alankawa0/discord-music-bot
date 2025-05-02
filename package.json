@@ -1,7 +1,7 @@
 {
-  "name": "wick-music-bot",
+  "name": "alan-music-bot",
   "version": "1.0.0",
-  "description": "🎵 A feature-rich music bot for Discord, built with love by Wick Studio.",
+  "description": "🎵 A feature-rich music bot for Discord, built with love by Royal Service.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -18,7 +18,7 @@
     "music-player"
   ],
   "author": {
-    "name": "Wick Studio",
+    "name": "Alan",
     "email": "info@wick-studio.com",
     "url": "https://discord.gg/wicks"
   },
